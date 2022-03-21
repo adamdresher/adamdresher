@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adamdresher
-- 👀 I'm just beginning my path to becoming a software developer and am focused on mastering the fundamentals of Ruby.  I'm currently studying with Launch School.
+- 👀 I'm working towards becoming a software developer and am focused on mastering the fundamentals of Ruby.  Currently I'm studying with Launch School.
 
 - Previously I ran a plastic recycling workshop to educate the community on the hidden impacts they and their trash have.  After proving myself as a capable programmer, I would like to dedicate some of my energy to help improve waste management systems.  
 - I'm focusing all my time studying, but I'm always open to opporunities to gain experience.
