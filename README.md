@@ -5,4 +5,4 @@
 
 - When I'm not studying, I'm with my dog exploring trails, reading, trying not to burn a new recipe, or meditating away the urge to squash a mosquito.
 
-- 📫 How to reach me ... adamdresher@gmail.com or on slack @Adam Dresher
+- 📫 How to reach me ... adamdresher@gmail.com or on slack @adamdresher
